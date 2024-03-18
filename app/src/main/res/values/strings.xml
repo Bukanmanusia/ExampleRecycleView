@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExampleRecycleView</string>
+    <string name="namestudent">NameStudent</string>
+    <string name="nim">Nim</string>
+</resources>
